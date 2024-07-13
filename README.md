@@ -4,6 +4,8 @@
 
 This project is a one-way bridge that allows users to transfer cBTC (Citrea Bitcoin) to Sepolia ETH. It's a simple demonstration of cross-chain functionality between the Citrea devnet and the Sepolia testnet.
 
+![flow](https://github.com/user-attachments/assets/b58ec8a8-c51f-4b5e-a1c6-c016263773b7)
+
 ## How It Works
 
 1. Users lock their cBTC on the Citrea network.
